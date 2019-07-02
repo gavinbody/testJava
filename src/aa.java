@@ -2,6 +2,3 @@
 public class aa {
 
 }
-}
-
-ad
